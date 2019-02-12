@@ -13,10 +13,10 @@ Including:
 ## Table of Contents
 - [Traditional Methods](#traditional-methods)
 - [Deep Learning](#deep-learning)
-  - [Single Image Super Resolution](#Single Image Super Resolution)
-  - [Video Super Resolution](#reinforcement-learning)
-  - [Face Super Resolution](#evolutionary-algorithm)
-  - [Character Super Resolution](#others)
+  - [Single Image Super Resolution](#single-image-super-resolution)
+  - [Video Super Resolution](#video-super-resolution)
+  - [Face Super Resolution](#face-super-resolution)
+  - [Character Super Resolution](#character-super-resolution)
 
 ## Traditional Methods
 
