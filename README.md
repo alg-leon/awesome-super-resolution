@@ -20,8 +20,24 @@ A curated list of awesome super resolution resources, including tranditional sup
 
 ### Single Image Super Resolution
 
+#### Introduction
+
+#### Performances
+
 ### Video Super Resolution
+
+#### Introduction
+
+#### Performances
 
 ### Face Super Resolution
 
+#### Introduction
+
+#### Performances
+
 ### Character Super Resolution
+
+#### Introduction
+
+#### Performances
