@@ -27,7 +27,10 @@ A curated list of awesome super resolution resources, including tranditional sup
 ### Video Super Resolution
 
 #### Introduction
-
+##### 3DSRnet: Video Super-resolution using 3D Convolutional Neural Networks
+- 3DSRnet: Video Super-resolution using 3D Convolutional Neural Networks
+  - 3D-CNNs for **spatio-temporal feature extraction**.
+  - Vid4 4scale psnr=25.71 ssim=0.7588.
 #### Performances
 
 ### Face Super Resolution
